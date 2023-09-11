@@ -16,7 +16,7 @@
 </p> 
 <h3 align="center">A Software Engineer 💻 </h3>
 
-- 🌱 I’m currently learning AI and ML
+ 🌱 I’m currently learning AI and ML
 
 
 
