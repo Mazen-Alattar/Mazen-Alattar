@@ -2,10 +2,17 @@
 <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 <br>
 <h1 align="center">Hi 👋, I'm Mazen-Alattar</h1>
+ <!-- how to reach me -->
+<p><img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="40px"> How to Reach Me </p>
+
+<!-- --> 
 <p align="center">
-<a href="https://www.linkedin.com/in/ayano-o-54152b259"><img src="https://github.com/Mazen-Alattar/Mazen-Alattar/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="https://www.facebook.com/profile.php?id=100087926480258&mibextid=ZbWKwL"><img src="https://github.com/Mazen-Alattar/Mazen-Alattar/blob/master/icons/icons8-facebook-48.png" alt="Facebook"></a> &nbsp; &nbsp;
-<a href="mazena7medalattar@gmail.com"><img src="https://github.com/Mazen-Alattar/Mazen-Alattar/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
+<a href="mailto:mazena7medalattar@gmail.com"><img img src="icons/gmail2.svg" alt="Gmail" title="gmail" width="50px"/></a>
+	<a href="https://github.com/Mazen-Alattar"><img src="icons/github.svg" alt="GitHub" title="github" width="50px"/></a>
+	<a href="https://www.linkedin.com/in/ayano-o-54152b259/"><img src="icons/linkedin.svg" alt="LinkedIn" width="50px" title="linkedin"/></a>
+	<a href="https://www.facebook.com/profile.php?id=100087926480258&mibextid=ZbWKwL"><img src="icons/Facebook.svg" alt="Facebook" title="facebook" width="50px"/></a>
+
+<a href="https://www.kaggle.com/mazenalattar"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>   
 </p> 
 <h3 align="center">A Software Engineer 💻 </h3>
 
