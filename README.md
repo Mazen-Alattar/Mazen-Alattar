@@ -8,7 +8,6 @@
 <!-- --> 
 <p align="center">
         <a href="mailto:mazena7medalattar@gmail.com"><img img src="icons/gmail2.svg" alt="Gmail" title="gmail" width="50px"/></a>
-	<a href="https://github.com/Mazen-Alattar"><img src="icons/github.svg" alt="GitHub" title="github" width="50px"/></a>
 	<a href="https://www.linkedin.com/in/mazen-alattar-54152b259/"><img src="icons/linkedin.svg" alt="LinkedIn" width="50px" title="linkedin"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100087926480258&mibextid=ZbWKwL"><img src="icons/Facebook.svg" alt="Facebook" title="facebook" width="50px"/></a>
 
